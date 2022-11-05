@@ -9,8 +9,44 @@
 
 "sites" : [
         {"key":"潇洒美食","name":"🍱潇洒美食","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/美食合集.json","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
-          {"key":"360_spider","name":"🍩360影视","type":3,"api":"csp_SP360","searchable":0,"quickSearch":0,"filterable":0},
-
+        {
+            "key" : "小苹果",
+            "name" : "🍎小苹果",
+            "type" : 3,
+            "api" : "csp_LiteApple",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+        },
+	  {
+            "key" : "csp_Bd",
+            "name" : "📯哔嘀影视",
+            "type" : 3,
+            "api" : "csp_Bdys01",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+        },
+	 {
+      "key": "csp_Kunyu77",
+      "name": "🍁多多七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{"key":"360_spider","name":"🍩360影视","type":3,"api":"csp_SP360","searchable":0,"quickSearch":0,"filterable":0},
+ {
+            "key" : "美食",
+            "name" : "🍔美食合集",
+            "type" : 3,
+            "api" : "csp_Bili",
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 1,
+            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+        },
 {"key":"小熊","name":"‍🐻小熊影视","api":"csp_Xxys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_ZJMiao","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -20,24 +56,8 @@
          
            //=======================================================================================================
 
-            {
-            "key" : "小苹果",
-            "name" : "🍎小苹果",
-            "type" : 3,
-            "api" : "csp_LiteApple",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1
-        },
-            {
-            "key" : "csp_Bd",
-            "name" : "📯哔嘀影视",
-            "type" : 3,
-            "api" : "csp_Bdys01",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1
-        },
+            
+          
            
             {
             "key" : "快看",
@@ -92,16 +112,7 @@
             "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
         },
           
-            {
-            "key" : "美食",
-            "name" : "🍔美食合集",
-            "type" : 3,
-            "api" : "csp_Bili",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
-        },
+           
             {
             "key" : "音乐",
             "name" : "🎤音乐现场",
@@ -124,15 +135,7 @@
             "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
         },
             
-    {
-      "key": "csp_Kunyu77",
-      "name": "🍁多多七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "XMM",
       "name": "😻小猫咪",
