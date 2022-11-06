@@ -143,25 +143,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "追剧喵",
-      "name": "😻追剧喵",
-      "type": 3,
-      "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "🎬️影视工厂",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+       {
       "key": "csp_Zxzj",
       "name": "🏠在线之家",
       "type": 3,
@@ -170,33 +152,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-      "key": "SPQQ",
-      "name": "🐧腾讯(官)",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "SPIQY",
-      "name": "🥝爱奇艺(官)",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "SPMGTV",
-      "name": "🥭芒果(官)",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "youku",
       "name": "👑优酷(官)",
@@ -230,17 +186,7 @@
         "其他片"
       ]
     },
-    {
-      "key": "csp_XBPQ厂长资源",
-      "name": "厂长影视(XBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/厂长资源.json"
-    },
-    {
+        {
       "key": "csp_biubiu_骚火电影",
       "name": "🔥骚火电影",
       "type": 3,
@@ -250,27 +196,7 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
-    {
-		"key": "py_libvio",
-		"name": "🍲libvio（PY）",
-		"type": 3,
-		"api": "py_libvio",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pylibvio.py"
-	},
-    {
-      "key": "csp_xb_lib",
-      "name": "🍲LIBVIO(XB)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
-    },
-    {
+        {
       "key": "bdys",
       "name": "📯哔嘀影视",
       "type": 3,
@@ -280,16 +206,7 @@
       "filterable": 1,
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/bdys.json"
     },
- {
-      "key": "Smdyy",
-      "name": "🐎神马影院",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "16705ee9f4764be8499806f52d4bf1e7"
-    },
+ 
     {
       "key": "csp_biubiu_剧白白-蓝光",
       "name": "🥒剧白白-蓝光(XB)",
@@ -300,16 +217,7 @@
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/剧白白-蓝光.json"
     },
-    {
-      "key": "mjxq_spider",
-      "name": "🌏美剧星球",
-      "type": 3,
-      "api": "csp_Mjxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+       {
       "key": "小熊",
       "name": "🐨小熊TV",
       "type": 3,
@@ -336,25 +244,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Bttoo",
-      "name": "✌两个BT",
-      "type": 3,
-      "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "3EDY",
-      "name": "🌴3EDY",
-      "type": 3,
-      "api": "csp_EEEDY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
+     {
       "key": "csp_Anime1",
       "name": "🌸动漫",
       "type": 3,
@@ -373,27 +263,7 @@
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/tingshu.json"
     },
-    {
-      "key": "17kan",
-      "name": "⚽🏀17看球",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"
-    },
-    {
-      "key": "dr_88看球",
-      "name": "⚽🏀88看球",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/88%E7%9C%8B%E7%90%83.js"
-    },
-    {
+        {
       "key": "csp_XYQBiu_310直播",
       "name": "⚽🏀310直播",
       "type": 3,
@@ -403,17 +273,7 @@
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/310%E7%9B%B4%E6%92%AD.json"
     },
-    {
-      "key": "JRS看球网",
-      "name": "⚽🏀JRS看球网",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
-    },
-    {
+       {
       "key": "dr_JRKAN直播",
       "name": "⚽🏀JRKAN直播",
       "type": 3,
