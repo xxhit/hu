@@ -1,10 +1,10 @@
 ﻿
 {
-"spider":"https://agit.ai/xxhit/tv/raw/branch/master/0723.jar",
+"spider":"https://raw.githubusercontent.com/xxhit/hu/main/0723.jar",
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3h4aGl0L3R2L3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3h4aGl0L2h1L21haW4vbGl2ZS50eHQ="]}]}],
 
 
 "sites" : [
