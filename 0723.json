@@ -323,17 +323,7 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
     },
-    {
-      "key": "软件",
-      "name": "📗软件教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
-    },
-    {
+        {
       "key": "美食",
       "name": "🍔美食合集",
       "type": 3,
@@ -353,17 +343,7 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
     },
-    {
-      "key": "热舞",
-      "name": "💃女团热舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
-    },
-    {
+        {
       "key": "戏曲",
       "name": "👘戏曲合集",
       "type": 3,
@@ -373,17 +353,7 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
     },
-    {
-      "key": "短视频聚合",
-      "name": "📱短视频聚合",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
-    },
-    {
+        {
       "key": "csp_Yj1211",
       "name": "📸直播合集",
       "type": 3,
@@ -392,96 +362,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-		"key": "py_huya",
-		"name": "🐯虎牙（PY）",
-		"type": 3,
-		"api": "py_huya",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pyhuya.py"
-	},
-    {
-      "key": "虎牙",
-      "name": "🐯虎牙XYBQ",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E8%99%8E%E7%89%99.json"
-    },
- {
-		"key": "py_douyu",
-		"name": "🦈斗鱼（PY）",
-		"type": 3,
-		"api": "py_douyu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pydouyu.py"
-	},
- {
-      "key": "csp_biubiu_斗鱼",
-      "name": "🦈斗鱼XBB",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E6%96%97%E9%B1%BC.json"
-    },
-    {
-      "key": "网易CC",
-      "name": "🐠网易CC",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E7%BD%91%E6%98%93CC.json"
-    },
-    {
-      "key": "csp_xpath_酷狗MV",
-      "name": "🐶酷狗MV",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%85%B7%E7%8B%97MV.json"
-    },
-    {
-      "key": "csp_xpath_kuqimv",
-      "name": "🎤酷奇MV",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%85%B7%E5%A5%87MV.json"
-    },
-    {
-      "key": "csp_Alist",
-      "name": "🗂Alist合集",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Alist.json"
-    },
-    {
-      "key": "csp_bendi",
-      "name": "📂本地视频",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
+         {
       "key": "Gitcafe",
       "name": "🔖小纸条",
       "type": 3,
@@ -525,17 +406,7 @@
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
       "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
-    {
-      "key": "push_agent",
-      "name": "📨推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
-    },
+    
    {
       "key": "csp_xpath_yinfans",
       "name": "💥音范丝4K",
@@ -566,36 +437,7 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
     },
-    {
-      "key": "csp_XYQHiker_氢视频",
-      "name": "🌑氢视频",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E6%B0%A2%E8%A7%86%E9%A2%91.json"
-    },
-    {
-      "key": "csp_XYQBiu_凌云影视",
-      "name": "🍨凌云影视",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_XYQBiu_凌云韩国",
-      "name": "🍱凌云韩国",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"
-    },
+    
     {
       "key": "csp_XBiubiu_大米星球",
       "name": "🍚大米星球",
